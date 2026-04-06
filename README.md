@@ -4,7 +4,8 @@ An interactive **order-book footprint chart** built with [Plotly](https://plotly
 
 Each time bar is divided into adaptive price buckets showing **bid vs offer pressure**, with OHLC candles overlaid and a delta histogram below.
 
-![Footprint Chart](footprint_screenshot.png)
+![Footprint Chart](assets/footprint_screenshot.png)
+
 
 ---
 
